@@ -1,4 +1,4 @@
-﻿--What is the race/native language of students who received CM services?
+﻿--What is the race/native language of students who received Employment services?
 
 SELECT program,
 	race_ethnicity,
