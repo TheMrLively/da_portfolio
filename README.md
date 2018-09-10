@@ -9,3 +9,5 @@ This project analyzes different student outcomes according to demographics like 
 
 
 These queries will be the basis for further in analysis in Excel and Tableau. 
+
+* [Equity Analysis Dashboard in Tableau](https://public.tableau.com/profile/brandon.lindsey#!/vizhome/EquityDashboard_1/EquityAnalysisfor)
