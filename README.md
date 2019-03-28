@@ -8,6 +8,6 @@ This project analyzes different student outcomes according to demographics like 
 * [Students by Zip Code and City ](https://github.com/TheMrLively/da_portfolio/tree/master/Zip_Code)
 
 
-These queries will be the basis for further in analysis in Excel and Tableau. 
+In additition to these queries, the data set was uploaded to Tableau for further analysis. 
 
 * [Equity Analysis Dashboard in Tableau](https://public.tableau.com/profile/brandon.lindsey#!/vizhome/EquityDashboard_1/EquityAnalysisfor)
